@@ -22,7 +22,7 @@
     "@babel/preset-env": "^7.14.4",
     "@stencil/webpack": "0.0.6",
     "copy-webpack-plugin": "^9.0.0",
-    "css-loader": "^5.2.6",
+    "css-loader": "^6.0.0",
     "file-loader": "^6.2.0",
     "less": "^4.1.1",
     "less-loader": "^9.0.0",
