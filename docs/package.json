@@ -13,7 +13,7 @@
     "watcherGlob": "**"
   },
   "dependencies": {
-    "iframe-coordinator": "^4.2.6",
+    "iframe-coordinator": "^5.0.0",
     "monaco-editor": "^0.24.0",
     "parse5": "^6.0.1"
   },
